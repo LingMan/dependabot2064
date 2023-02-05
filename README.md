@@ -1,0 +1,1 @@
+Example repository for Dependabot issue [#2064](https://github.com/dependabot/dependabot-core/issues/2064).
